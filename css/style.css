@@ -1,0 +1,16 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.title {
+  font-family: 'Raleway', sans-serif;
+}
+
+.page-header a {
+  color: var(--orange-text);
+}
+
+.hero-btn {
+  border: none;
+  background: transparent;
+}
